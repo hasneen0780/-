@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "VIP GOLD",
+    "pair": "XAUUSD",
+    "type": "BUY",
+    "entry": "3350.20",
+    "take_profit": "3365.00",
+    "stop_loss": "3340.00",
+    "status": "active",
+    "date": "2026-05-28",
+    "time": "12:30 PM",
+    "note": "دخول بعد الكسر",
+    "image": "https://picsum.photos/400/200?random=1"
+  },
+  {
+    "id": 2,
+    "title": "VIP BTC",
+    "pair": "BTCUSDT",
+    "type": "SELL",
+    "entry": "68400",
+    "take_profit": "67000",
+    "stop_loss": "69000",
+    "status": "active",
+    "date": "2026-05-28",
+    "time": "01:10 PM",
+    "note": "ترند هابط",
+    "image": "https://picsum.photos/400/200?random=2"
+  },
+  {
+    "id": 3,
+    "title": "VIP EURUSD",
+    "pair": "EURUSD",
+    "type": "BUY",
+    "entry": "1.0820",
+    "take_profit": "1.0880",
+    "stop_loss": "1.0780",
+    "status": "closed",
+    "date": "2026-05-27",
+    "time": "09:00 AM",
+    "note": "تم تحقيق الهدف",
+    "image": "https://picsum.photos/400/200?random=3"
+  },
+  {
+    "id": 4,
+    "title": "VIP NASDAQ",
+    "pair": "NAS100",
+    "type": "BUY",
+    "entry": "18950",
+    "take_profit": "19120",
+    "stop_loss": "18840",
+    "status": "active",
+    "date": "2026-05-28",
+    "time": "03:45 PM",
+    "note": "ارتداد من الدعم",
+    "image": "https://picsum.photos/400/200?random=4"
+  },
+  {
+    "id": 5,
+    "title": "VIP ETH",
+    "pair": "ETHUSDT",
+    "type": "SELL",
+    "entry": "3720",
+    "take_profit": "3600",
+    "stop_loss": "3780",
+    "status": "closed",
+    "date": "2026-05-26",
+    "time": "08:20 PM",
+    "note": "ضرب الهدف الاول",
+    "image": "https://picsum.photos/400/200?random=5"
+  }
+]
