@@ -1,0 +1,111 @@
+EMA 50/200 + MACD Trading Strategy
+
+1. Trend Direction
+
+Buy Setup
+
+- EMA 50 must be above EMA 200, or EMA 50 must cross above EMA 200.
+- MACD must be above the zero line.
+- Market structure should preferably be bullish, with higher highs and higher lows.
+
+Sell Setup
+
+- EMA 50 must be below EMA 200, or EMA 50 must cross below EMA 200.
+- MACD must be below the zero line.
+- Market structure should preferably be bearish, with lower highs and lower lows.
+
+2. Do Not Enter Immediately After the Crossover
+
+The EMA crossover is a trend confirmation, not an immediate entry signal.
+
+After the trend conditions are confirmed, wait for price to return to a valid area for a retest, such as:
+
+- A clear support or resistance zone.
+- A previous price reaction or origin area.
+- The EMA 50 area when it aligns with the market structure.
+
+3. Entry Confirmation
+
+Buy Entry
+
+After price returns to a valid area, wait for bullish confirmation such as:
+
+- A break of a local high.
+- A clear rejection from the zone.
+- Strong bullish displacement after the retest.
+
+Enter only after confirmation occurs.
+
+Sell Entry
+
+After price returns to a valid area, wait for bearish confirmation such as:
+
+- A break of a local low.
+- A clear rejection from the zone.
+- Strong bearish displacement after the retest.
+
+Enter only after confirmation occurs.
+
+4. Stop Loss
+
+Buy
+
+Place the Stop Loss below the most recent valid Swing Low or below the invalidation level.
+
+Sell
+
+Place the Stop Loss above the most recent valid Swing High or above the invalidation level.
+
+The Stop Loss must not be placed randomly or tightened only to increase the Risk/Reward ratio.
+
+5. Take Profit
+
+Define the distance between Entry and Stop Loss as X.
+
+- TP1 = 1X
+- TP2 = 2X
+- TP3 = 3X
+
+Example:
+
+If the distance between Entry and Stop Loss is 10 points:
+
+- TP1 = 10 points
+- TP2 = 20 points
+- TP3 = 30 points
+
+6. Trade Management
+
+When TP1 is reached:
+
+- Consider closing a portion of the position.
+- Stop Loss may be moved to breakeven if market structure and price action support it.
+
+When TP2 is reached:
+
+- Consider closing another portion of the position.
+- Leave the remaining position toward TP3.
+
+Do not move the Stop Loss randomly during the trade.
+
+7. No-Trade Conditions
+
+Do not enter a trade if:
+
+- EMA 50 and EMA 200 are heavily overlapping and the market is ranging.
+- MACD is very close to the zero line without clear momentum.
+- Market structure is unclear.
+- No valid retest has occurred.
+- No entry confirmation has appeared after price reaches the zone.
+- The Stop Loss is unreasonably large compared with the target.
+- The setup is based only on the color or direction of the latest candle.
+
+8. Core Rule
+
+A crossover does NOT mean an immediate entry.
+
+The correct sequence is:
+
+Trend → Momentum → Zone → Retest → Confirmation → Entry → Stop Loss → TP1 → TP2 → TP3
+
+If the required conditions are not completed, do not enter the trade.
