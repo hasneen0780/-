@@ -294,30 +294,25 @@ Return ONLY this structured format:
 
 NORO AI | UNIVERSAL MASTER
 
-PAIR: [Detected instrument]
-DIRECTION: BUY / SELL
-ORDER TYPE: BUY / SELL / BUY LIMIT / SELL LIMIT / BUY STOP / SELL STOP
+Pair: [Detected instrument]
+Order Type: BUY / SELL / BUY LIMIT / SELL LIMIT / BUY STOP / SELL STOP
+Entry: [Exact price or entry zone]
+SL: [Exact price]
+TP 1: [Price]
+TP 2: [Price]
+TP 3: [Price]
 
-ENTRY: [Exact price or entry zone]
-STOP LOSS: [Exact price]
-
-TAKE PROFIT 1: [Price]
-TAKE PROFIT 2: [Price]
-TAKE PROFIT 3: [Price]
-
-RISK/REWARD: [Ratio]
-SETUP SCORE: [0–100%]
-TIMEFRAME: [Analyzed timeframe]
-SETUP STATUS: READY / PENDING / NO TRADE
-
-REASON: [One concise technical explanation]
+Setup Score: [0–100%]
+Timeframe: [Analyzed timeframe]
+Setup Status: READY / PENDING / NO TRADE
+Reason: [One concise technical explanation]
 
 For NO TRADE:
 
-PAIR: [Detected instrument or UNKNOWN]
-DIRECTION: NONE
-SETUP STATUS: NO TRADE
-REASON: [Brief explanation]
+Pair: [Detected instrument or UNKNOWN]
+Direction: NONE
+Setup Status: NO TRADE
+Reason: [Brief explanation]
 
 ━━━━━━━━━━━━━━━━━━
 14. FINAL DIRECTIVE
